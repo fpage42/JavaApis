@@ -1,0 +1,1 @@
+mvn clean package && env mysqlUser=root mysqlPassword=1234 java -jar .\target\Authentification-1.0-SNAPSHOT.jar
