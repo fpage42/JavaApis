@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ConservatoireUserAPI" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a59a3d-7be1-4e8a-8a34-d8f1f3ccb774" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEmOzjDMRXqaOaRwOHzS2xwhtf" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570488679535" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.fpage.conservatoireuserapi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="mysqlUser" value="root" />
+        <env name="mysqlPassword" value="1234" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="fr.fpage.conservatoireuserapi.Application" />
+      <module name="ConservatoireUserAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compile" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ConservatoireUserAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fr.fpage.conservatoireuserapi.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Maven.Compile" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a59a3d-7be1-4e8a-8a34-d8f1f3ccb774" name="Default Changelist" comment="" />
+      <created>1568981791911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568981791911</updated>
+      <workItem from="1568981799287" duration="4059000" />
+      <workItem from="1569017287637" duration="679000" />
+      <workItem from="1569078487886" duration="3119000" />
+      <workItem from="1569154626908" duration="598000" />
+      <workItem from="1569228930094" duration="3982000" />
+      <workItem from="1569363794662" duration="4330000" />
+      <workItem from="1569404385787" duration="10171000" />
+      <workItem from="1569494035207" duration="1960000" />
+      <workItem from="1569587700093" duration="4082000" />
+      <workItem from="1569678189468" duration="3838000" />
+      <workItem from="1569770688059" duration="6221000" />
+      <workItem from="1569845930888" duration="2078000" />
+      <workItem from="1569927770334" duration="598000" />
+      <workItem from="1570027916980" duration="1236000" />
+      <workItem from="1570139917209" duration="3771000" />
+      <workItem from="1570203841338" duration="2434000" />
+      <workItem from="1570298388463" duration="597000" />
+      <workItem from="1570443084578" duration="7122000" />
+      <workItem from="1570571890174" duration="1172000" />
+      <workItem from="1570615184727" duration="6072000" />
+      <workItem from="1570712234880" duration="896000" />
+      <workItem from="1570829274614" duration="598000" />
+      <workItem from="1570896147862" duration="1283000" />
+      <workItem from="1570973655434" duration="489000" />
+      <workItem from="1570974171587" duration="853000" />
+      <workItem from="1571045308690" duration="1423000" />
+      <workItem from="1571137102763" duration="3647000" />
+      <workItem from="1571492128159" duration="3004000" />
+      <workItem from="1571753712588" duration="1188000" />
+      <workItem from="1571834594003" duration="5574000" />
+      <workItem from="1571922076351" duration="2442000" />
+      <workItem from="1572013180385" duration="2672000" />
+      <workItem from="1572093029136" duration="597000" />
+      <workItem from="1572185923747" duration="825000" />
+      <workItem from="1572442472446" duration="1254000" />
+      <workItem from="1573051288602" duration="4239000" />
+      <workItem from="1573134498624" duration="1796000" />
+      <workItem from="1573341459286" duration="40000" />
+      <workItem from="1573341596304" duration="753000" />
+      <workItem from="1573434180686" duration="641000" />
+      <workItem from="1573741291383" duration="77000" />
+      <workItem from="1573867143828" duration="1161000" />
+      <workItem from="1573950111154" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ConservatoireUserAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ConservatoireUserAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27756655" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25172412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

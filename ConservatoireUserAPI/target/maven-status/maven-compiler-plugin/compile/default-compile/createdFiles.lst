@@ -1,0 +1,14 @@
+fr\fpage\conservatoireuserapi\requests\ChangeUserDatasRequest.class
+fr\fpage\conservatoireuserapi\models\User.class
+fr\fpage\conservatoireuserapi\authentification\UserToken.class
+fr\fpage\conservatoireuserapi\controllers\Users.class
+fr\fpage\conservatoireuserapi\exceptions\UserLoadException$UserExceptionReasons.class
+fr\fpage\conservatoireuserapi\authentification\Authentification.class
+fr\fpage\conservatoireuserapi\Utils.class
+fr\fpage\conservatoireuserapi\managers\UsersManager.class
+fr\fpage\conservatoireuserapi\Database.class
+fr\fpage\conservatoireuserapi\exceptions\UserLoadException.class
+fr\fpage\conservatoireuserapi\models\ReduceUser.class
+fr\fpage\conservatoireuserapi\authentification\UserUUID.class
+fr\fpage\conservatoireuserapi\Application.class
+fr\fpage\conservatoireuserapi\authentification\AuthUser.class

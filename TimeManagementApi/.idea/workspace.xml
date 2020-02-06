@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f260d49b-e161-451d-9246-956c18a75d0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEm17PAWVJFLxHiGOaP7nZqoot" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571089582170" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/fr/fpage/timemanagementapi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\felix\Desktop\developpement\SaaS\TimeManagementApi\src\main\java\fr\fpage\timemanagementapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="compile" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="TimeManagementApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fr.fpage.timemanagementapi.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="mysqlUser" value="root" />
+        <env name="mysqlPassword" value="1234" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.compile" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f260d49b-e161-451d-9246-956c18a75d0d" name="Default Changelist" comment="" />
+      <created>1570980069492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570980069492</updated>
+      <workItem from="1570980072289" duration="2081000" />
+      <workItem from="1571045550614" duration="7145000" />
+      <workItem from="1571133232288" duration="931000" />
+      <workItem from="1571136925169" duration="4546000" />
+      <workItem from="1571505048672" duration="1201000" />
+      <workItem from="1571658920498" duration="1522000" />
+      <workItem from="1571753685239" duration="1197000" />
+      <workItem from="1571834607713" duration="3577000" />
+      <workItem from="1571922063019" duration="1366000" />
+      <workItem from="1572013148839" duration="643000" />
+      <workItem from="1572185994933" duration="749000" />
+      <workItem from="1572442396337" duration="698000" />
+      <workItem from="1573051713118" duration="613000" />
+      <workItem from="1573134322456" duration="1982000" />
+      <workItem from="1573341688914" duration="670000" />
+      <workItem from="1573950095118" duration="1503000" />
+      <workItem from="1575750870944" duration="5816000" />
+      <workItem from="1575767552307" duration="29000" />
+      <workItem from="1575805502824" duration="3198000" />
+      <workItem from="1579716535111" duration="1908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Notifications" timestamp="1575767566847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575767566847" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575851690811">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575851690811" />
+    <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1575805633168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575805633168" />
+    <state x="499" y="241" key="new project wizard" timestamp="1575805824986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1575805634813" />
+    <state x="499" y="241" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575805824986" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27756655" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

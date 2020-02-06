@@ -1,0 +1,13 @@
+fr\fpage\timemanagementapi\exceptions\BddLoadException.class
+fr\fpage\timemanagementapi\managers\SallesManager.class
+fr\fpage\timemanagementapi\controllers\Salles.class
+fr\fpage\timemanagementapi\authentification\AuthUser.class
+fr\fpage\timemanagementapi\authentification\UserUUID.class
+fr\fpage\timemanagementapi\authentification\UserToken.class
+fr\fpage\timemanagementapi\models\Salle.class
+fr\fpage\timemanagementapi\requests\CreateSalleRequest.class
+fr\fpage\timemanagementapi\Database.class
+fr\fpage\timemanagementapi\exceptions\BddLoadException$BddLoadExceptionReasons.class
+fr\fpage\timemanagementapi\Application.class
+fr\fpage\timemanagementapi\Utils.class
+fr\fpage\timemanagementapi\authentification\Authentification.class
